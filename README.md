@@ -14,6 +14,10 @@ Curso de JavaScript Gustavo Guanabara.
    1. Nível 1: JavaScript básico
         - <a href="https://"> Olá, Mundo! </a>
 
+<!--2. [Exercícios Avançados](#avancados)-->
+2. Nível 2: Condições em JavaScript
+    - <a href="https://"> Calculando média e dando 'Parabéns' </a>
+
 
 
 
