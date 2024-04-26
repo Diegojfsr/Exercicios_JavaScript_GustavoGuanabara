@@ -13,6 +13,7 @@ Curso de JavaScript Gustavo Guanabara.
 <!--1. [Exercícios para Iniciantes](#iniciantes)-->
    1. Nível 1: JavaScript básico
         - <a href="https://"> Olá, Mundo! </a>
+        - <a href="https://"> Interagindo com um botão. </a>
 
 
 <!--2. [Exercícios Avançados](#avancados)-->
