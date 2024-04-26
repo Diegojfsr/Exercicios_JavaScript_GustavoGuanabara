@@ -24,6 +24,7 @@ Curso de JavaScript Gustavo Guanabara.
 
 3. Nível 3: Repetições em JavaScript
     - <a href="https://"> Contando de 1 até 10' </a>
+    - <a href="https://"> Contando de 1 até 10(marcando os pares) </a>
 
 
 
