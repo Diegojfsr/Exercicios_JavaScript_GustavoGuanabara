@@ -19,6 +19,7 @@ Curso de JavaScript Gustavo Guanabara.
 <!--2. [Exercícios Avançados](#avancados)-->
 2. Nível 2: Condições em JavaScript
     - <a href="https://"> Calculando média e dando 'Parabéns' </a>
+    - <a href="https://"> É par ou ímpar? </a>
 
 
 3. Nível 3: Repetições em JavaScript
